@@ -5,7 +5,7 @@ eureka:
   instance:
     hostname: localhost
     
-microservices:
+microservice:
   employee-department-service:
     endpoints:
       endpoint:
