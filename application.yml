@@ -8,7 +8,7 @@ eureka:
     hostname: localhost
     
 microservices:
-  employee-service:
+  employee-department-service:
     endpoints:
       endpoint:
         uri: http://Employee-Department-Service/department/employeeId/
